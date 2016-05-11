@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HomeWork2_1
 {
-    static class RomeDigit
+    class RomeDigit
     {
         static int MinValue = 0;
         static int MaxValue = 3999;
